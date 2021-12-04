@@ -16,7 +16,7 @@
 <br>
   
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DoIn-Sin&show_icons=true&theme=cobalt)
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdls6864">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdls6864">
 
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
