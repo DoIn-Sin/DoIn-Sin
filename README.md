@@ -14,9 +14,9 @@
 </p>
 
 <br>
-<p class="justify-image">
-  <img src ="https://github-readme-stats.vercel.app/api?username=DoIn-Sin&show_icons=true&theme=cobalt"></a>&nbsp
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdls6864"></a>&nbsp
+<p>
+  <img align="left" src ="https://github-readme-stats.vercel.app/api?username=DoIn-Sin&show_icons=true&theme=cobalt">
+  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdls6864">
 </p>
 
 <br>
