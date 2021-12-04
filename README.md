@@ -18,9 +18,9 @@
 
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
-  <a href="https://DoIn-Sin.github.io/"><img src="https://img.shields.io/badge/GitHub-092E20?style=flat-square&logo=GitHub&logoColor=white&link=https://DoIn-Sin.github.io/"/></a>&nbsp
+  <a href="https://DoIn-Sin.github.io/"><img src="https://img.shields.io/badge/GitHub Blog-092E20?style=flat-square&logo=GitHub&logoColor=white&link=https://DoIn-Sin.github.io/"/></a>&nbsp
   <a href="https://www.instagram.com/singdoinsta/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
-  <a href="mailto:viliketh1s98@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
+  <a href="mailto:ehdls@naver.com"><img src="https://img.shields.io/badge/Naver Mail-d14836?style=flat-square&logo=Naver&logoColor=white&link=viliketh1s98@naver.com"/></a>
 </p>
 <br>
 
