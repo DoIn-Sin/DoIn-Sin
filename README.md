@@ -14,7 +14,9 @@
 </p>
 
 <br>
-
+  
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DoIn-Sin&show_icons=true&theme=cobalt)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj={userid})](https://solved.ac/DoIn-Sin)
 
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
