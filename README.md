@@ -17,8 +17,8 @@
 
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
-  <a href="https://DoIn-Sin.github.io/"><img src="https://img.shields.io/badge/GitHub Blog-092E20?style=flat-square&logo=GitHub&logoColor=white&link=https://DoIn-Sin.github.io/"/></a>&nbsp
-  <a href="https://www.instagram.com/singdoinsta/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
-  <a href="mailto:ehdls@naver.com"><img src="https://img.shields.io/badge/Naver Mail-6DB33F?style=flat-square&logo=Naver&logoColor=white&link=viliketh1s98@naver.com"/></a>
+  <a href="https://DoIn-Sin.github.io/"><img src="https://img.shields.io/badge/Tech Blog-8a2be2?style=flat-square&logo=GitHub&logoColor=white&link=https://DoIn-Sin.github.io/"/></a>&nbsp
+  <a href="https://maroon-chips-b96.notion.site/Data-Engineer-DoIn-Sin-495ea758e5e9426abbaf1d25298703cd"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
+  <a href="mailto:ehdls@naver.com"><img src="https://img.shields.io/badge/Email-6DB33F?style=flat-square&logo=Naver&logoColor=white&link=viliketh1s98@naver.com"/></a>
 </p>
 <br>
