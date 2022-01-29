@@ -22,13 +22,3 @@
   <a href="mailto:ehdls@naver.com"><img src="https://img.shields.io/badge/Naver Mail-6DB33F?style=flat-square&logo=Naver&logoColor=white&link=viliketh1s98@naver.com"/></a>
 </p>
 <br>
-
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDoIn-SIn&count_bg=%23AAAAAA&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</p>
-
-<br>
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=DoIn-Sin&show_icons=true&theme=cobalt" width="425"/>
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdls6864" width="300"/>
-</p>
