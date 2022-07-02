@@ -1,12 +1,29 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=BDBDBD&height=300&section=header&text=DoInSin&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Jr.%20Data%20Engineer&descAlignY=51&descAlign=70&fontColor=2E2E2E)
+![header](https://capsule-render.vercel.app/api?type=waving&color=D4A7FB&height=300&section=header&text=DoInSin&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Jr.%20Data%20Engineer&descAlignY=51&descAlign=70&fontColor=2E2E2E)
 
-<div align="center"><h3>🛠 Tech Stack 🛠</h3></div>
+<div align=center>
 
-<div align="center"> Techs that I've used at least once </div>
+### Hello, World! 🙋🏻‍♂️ I'm DoIn!
 
-<div align="center">
+배움을 즐기는 데이터 엔지니어 신도인 입니다!<br>
+근거있는 개발을 지향하며, 데이터를 다루는 것에 푹 빠져있습니다.
 
-### Data Science
+<a href="mailto:sindoin0509@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a></a>
+<a href="https://doin-sin.github.io/" rel="nofollow"><img src="https://img.shields.io/badge/Tech Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/></a></a>
+<a href="https://www.instagram.com/singdoinsta/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a></a>
+  
+</div>
+
+- 👨‍🎓 **Undergraduate Researcher** 2020. 8. 1. ~ 2021. 4. 30.
+- 🤖 **Codestates AIB 5th** 2021. 7. 8. ~ 2022. 1. 27.
+- 💻 **1day 1commit** 2022. 1. 1. ~
+
+<details>
+  
+<summary>Tech Stack</summary>
+  
+<div align=center>
+
+  ### Data Science
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>
@@ -29,14 +46,15 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/></a>
-</div>
 
-<br>
+### Backend
 
-<div align="center"><h3> 🧸 Me 🧸 </h3></div>
-<div align="center">
-  <a href="https://DoIn-Sin.github.io/"><img src="https://img.shields.io/badge/Tech Blog-8a2be2?style=flat-square&logo=GitHub&logoColor=white&link=https://DoIn-Sin.github.io/"/></a>&nbsp
-  <a href="https://maroon-chips-b96.notion.site/Data-Engineer-DoIn-Sin-495ea758e5e9426abbaf1d25298703cd"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
-  <a href="mailto:ehdls@naver.com"><img src="https://img.shields.io/badge/Email-6DB33F?style=flat-square&logo=Naver&logoColor=white&link=viliketh1s98@naver.com"/></a>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Django-044c00?style=flat-square&logo=Django&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/></a>
+
 </div>
-<br>
+  
+</details>
+
+</div>
