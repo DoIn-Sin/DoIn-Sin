@@ -19,7 +19,7 @@
 
 <details>
   
-<summary>Tech Stack</summary>
+<summary>doin's Tech Stack 👨‍💻</summary>
   
 <div align=center>
 
