@@ -9,7 +9,7 @@
 
 <a href="mailto:sindoin0509@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a></a>
 <a href="https://doin-sin.github.io/" rel="nofollow"><img src="https://img.shields.io/badge/Tech Blog-181717?style=flat-square&logo=GitHub&logoColor=white"/></a></a>
-<a href="https://www.instagram.com/singdoinsta/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a></a>
+<a href="https://www.notion.so/Data-Engineer-DoIn-Sin-495ea758e5e9426abbaf1d25298703cd"><img src="https://img.shields.io/badge/Notion-0067a3?style=flat-square&logo=Notion&logoColor=white"/></a></a>
   
 </div>
 
