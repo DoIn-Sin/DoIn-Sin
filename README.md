@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=BDBDBD&height=300&section=header&text=DoinSin&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Jr.%20Data%20Engineer&descAlignY=51&descAlign=70&fontColor=2E2E2E)
+![header](https://capsule-render.vercel.app/api?type=waving&color=BDBDBD&height=300&section=header&text=DoInSin&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Jr.%20Data%20Engineer&descAlignY=51&descAlign=70&fontColor=2E2E2E)
 
 <div align="center"><h3>🛠 Tech Stack 🛠</h3></div>
 
