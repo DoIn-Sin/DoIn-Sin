@@ -15,7 +15,6 @@
 
 - 👨‍🎓 **Undergraduate Researcher** 2020. 8. 1. ~ 2021. 4. 30.
 - 🤖 **Codestates AIB 5th** 2021. 7. 8. ~ 2022. 1. 27.
-- 💻 **1day 1commit** 2022. 1. 1. ~
 
 <details>
   
